@@ -110,7 +110,7 @@ Aplikasi web berbasis Streamlit untuk memprediksi status kelulusan siswa (Gradua
 
 1. **Clone repository:**
    ```
-   git clone <repository-url>
+   git clone https://github.com/berliantino/bme-graduation-prediction.git
    cd <repository-directory>
    ```
 
